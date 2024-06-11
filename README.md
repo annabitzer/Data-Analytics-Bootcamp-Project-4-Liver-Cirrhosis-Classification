@@ -1,4 +1,5 @@
-# project-4-group-2
+# Liver Cirrhosis Stage Classification using Machine Learning
+### Data Analytics Bootcamp Final Project
 Final bootcamp project analyzing liver cirrhosis data and using machine learning to predict cirrhosis stages.  
 Members: Amy Dohlin, Anna Bitzer, Tianyue Li, Christine Jauregui
 
